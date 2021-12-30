@@ -1,14 +1,14 @@
 from distutils.core import setup
 
 setup(
-    name="Slowloris",
-    py_modules=["slowloris"],
-    entry_points={"console_scripts": ["slowloris=slowloris:main"]},
+    name="Hex.dev and kinaki ddos",
+    py_modules=["Hex.dev and kinaki ddos"],
+    entry_points={"console_scripts": ["Hex.dev and kinaki ddos=Hex.dev and kinaki ddos:main"]},
     version="0.2.3",
-    description="Low bandwidth DoS tool. Slowloris rewrite in Python.",
-    author="Gokberk Yaltirakli",
+    description="Low bandwidth DoS tool. Hex.dev and kinaki ddos rewrite in Python.",
+    author="Kinaki - Hex.dev",
     author_email="opensource@gkbrk.com",
-    url="https://github.com/gkbrk/slowloris",
-    keywords=["dos", "http", "slowloris"],
+    url="Hex.dev and kinaki ddos",
+    keywords=["dos", "http", "Hex.dev and kinaki ddos"],
     license="MIT",
 )
